@@ -1,0 +1,21 @@
+2022-01-08 15:43:22.452 [main] TRACE Application - {
+    # application.conf @ file:/C:/Users/fives/IdeaProjects/DemoServer/build/resources/main/application.conf: 6
+    "application" : {
+        # application.conf @ file:/C:/Users/fives/IdeaProjects/DemoServer/build/resources/main/application.conf: 7
+        "modules" : [
+            # application.conf @ file:/C:/Users/fives/IdeaProjects/DemoServer/build/resources/main/application.conf: 7
+            "com.example.ApplicationKt.module"
+        ]
+    },
+    # application.conf @ file:/C:/Users/fives/IdeaProjects/DemoServer/build/resources/main/application.conf: 2
+    "deployment" : {
+        # application.conf @ file:/C:/Users/fives/IdeaProjects/DemoServer/build/resources/main/application.conf: 3
+        "port" : 8080
+    },
+    # Content hidden
+    "security" : "***"
+}
+
+2022-01-08 15:43:22.577 [main] INFO  Application - Autoreload is disabled because the development mode is off.
+2022-01-08 15:43:23.185 [main] INFO  Application - Responding at http://0.0.0.0:8080
+2022-01-08 15:43:23.187 [main] INFO  Application - Application started in 0.636 seconds.
